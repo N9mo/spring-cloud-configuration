@@ -1,0 +1,3 @@
+#for dev needs, comment out on prod
+server:
+  port: 9094
