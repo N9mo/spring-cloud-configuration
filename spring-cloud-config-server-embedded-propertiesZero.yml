@@ -2,5 +2,8 @@
 server:
   port: 9094
 
+#test:
+#  string: no props update
+
 test:
-  string: no props update
+  string: props were refreshed
