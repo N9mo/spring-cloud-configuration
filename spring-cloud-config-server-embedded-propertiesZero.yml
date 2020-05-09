@@ -6,4 +6,4 @@ server:
 #  string: no props update
 
 test:
-  string: props were refreshed2
+  string: props were refreshed3
